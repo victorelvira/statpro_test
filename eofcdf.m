@@ -1,4 +1,5 @@
 %% Probability mass function
+
 n = 16; % no. of support points
 % Probabilities chosen uniformly at random
     % wu = rand([n 1]);
