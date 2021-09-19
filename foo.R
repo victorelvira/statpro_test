@@ -1,2 +1,4 @@
-upload this to the server,,, dfs ANADO ESTO EN LOCAL!
+upload this to the server,,,conflicto resuelto 
+
+una nueva linea
 
